@@ -7,7 +7,7 @@
 -  Desarrollador Fullstack Angular & Nodejs
 -  Desarrollador Fullstack Java Spring boot & Angular
 -  Desarolllador Phpcake, html5, Mysql, PHP
--  Desarrollador Python 
+-  Desarrollador React native 
 
 
   
