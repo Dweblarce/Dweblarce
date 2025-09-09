@@ -14,7 +14,7 @@
 
 📝 roles en el ámbito: desarrollador.... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **dweblarce@gmail.com**
+📫 Contacto: **newprogramadores@gmail.com**
 <!--Intro end-->
   </p>
   <h2 >Tecnologías conocidas👨🏻‍💻</h2>
