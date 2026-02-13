@@ -19,10 +19,10 @@ Con más de 5 años de experiencia, transformo ideas en productos digitales esca
 
 ### 🚀 Proyectos Destacados
 
-* 🐹 **[Acortador-URL-Go](URL_AQUÍ)**: Microservicio de alto rendimiento desarrollado en **Go**. Enfocado en la generación rápida de enlaces y eficiencia en el manejo de memoria.
-* 📱 **[Frontend-React-Native](URL_AQUÍ)**: Aplicación móvil con **React Native**. Implementa arquitecturas limpias, manejo de estado complejo y consumo de APIs REST.
-* 🎮 **[Game-LOOP](URL_AQUÍ)**: Motor de lógica de juego que demuestra control avanzado sobre ciclos de ejecución (ticks), renderizado dinámico y optimización de recursos.
-* 🛡️ **[Security-Java](URL_AQUÍ)**: Sistema integral para gestión de seguridad. Desarrollado con **Java (Spring Boot)**, incluye módulos de autenticación, control de accesos y reportería.
+* 🐹 **[Acortador-URL-Go](https://github.com/Dweblarce/acortador-url-go)**: Microservicio de alto rendimiento desarrollado en **Go**. Enfocado en la generación rápida de enlaces y eficiencia en el manejo de memoria.
+* 📱 **[Frontend-React-Native](https://github.com/Dweblarce/FrontendReact_native)**: Aplicación móvil con **React Native**. Implementa arquitecturas limpias, manejo de estado complejo y consumo de APIs REST.
+* 🎮 **[Game-LOOP](https://github.com/Dweblarce/Game-Loop)**: Motor de lógica de juego que demuestra control avanzado sobre ciclos de ejecución (ticks), renderizado dinámico y optimización de recursos.
+* 🛡️ **[Security-Java](https://github.com/Dweblarce/security_java)**: Sistema integral para gestión de seguridad. Desarrollado con **Java (Spring Boot)**, incluye módulos de autenticación, control de accesos y reportería.
 
 ---
 
