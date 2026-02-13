@@ -1,32 +1,28 @@
-<h1 align="center">Hola 👋  soy Luciano / Desarrollador Fullstack ✨ </h1> 
+# ¡Hola! Soy Luciano Arce 👋
+### Full Stack Engineer | Go · React Native · Vue · Java Specialist
 
-<p align="left">
+Con más de 5 años de experiencia, transformo ideas en productos digitales escalables. Mi enfoque principal es el rendimiento y la experiencia de usuario, habiendo liderado soluciones en sectores de seguridad y retail.
 
-<a href="https://www.linkedin.com/in/luciano-arce-25b131262/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="larce"/></a>
-<a href = "mailto:newprogramadores@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="larce"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<p align="left">
-🎓 Analista Programador/ Desarrollador Aplicaciones moviles/ Desarrollador Fullstack
+---
 
-🎥 Más de 5 años de experiencia diseñando y construyendo soluciones Full Stack con Java (Spring Boot), Node.js, Angular, Golang, Nestjs, Kotlin. Liderazgo de proyectos en seguridad y retail. Experto en APIs REST y bases de datos SQL/NoSQL.
+### 🛠️ Mi Stack Tecnológico
 
-📝 roles en el ámbito: desarrollador.... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | **Go**, Node.js (NestJS), Java (Spring Boot), Python |
+| **Frontend** | **Vue.js**, React Native, Angular, Flutter |
+| **Mobile** | Kotlin, React Native, Android SDK |
+| **Infra & DB** | Docker, SQL/NoSQL (Firebase, MongoDB, PostgreSQL) |
 
-📫 Contacto: **newprogramadores@gmail.com**
-<!--Intro end-->
-  </p>
-  <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,php,flutter,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,angular,postman,eclipse,vscode,bash,linux,ai,vuejs,nestjs,go" />
-  </a>
-</p>
-<br>
 
-  
+---
+
+### 🚀 Proyectos Destacados
+* 🐹 **[Acortador-URL-Go](URL_AQUÍ):** Microservicio de alto rendimiento desarrollado en Go.
+* 📱 **[Frontend-React-Native](URL_AQUÍ):** App móvil con gestión de estado compleja y consumo de APIs REST.
+* 🛡️ **[Security-Java](URL_AQUÍ):** Sistema integral de seguridad para retail (Java/Spring Boot).
+
+📫 **¿Hablamos?** [newprogramadores@gmail.com](mailto:newprogramadores@gmail.com)
 
 
 
