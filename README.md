@@ -1,29 +1,34 @@
 # ¡Hola! Soy Luciano Arce 👋
 
-![Banner de Luciano](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Luciano%20Arce&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Engineer%20|%20Go%20•%20React%20Native%20•%20Vue%20•%20Java&descSize=20&descAlignY=75)
+
 
 Con más de **5 años de experiencia**, transformo ideas en productos digitales escalables. Mi enfoque principal es el rendimiento y la experiencia de usuario, liderando soluciones en sectores de seguridad y retail.
 
 ---
+## Sobre mi
 
-### 📊 Mi Actividad y Estadísticas
+- 🚀 **Full Stack Engineer** con +5 años de experiencia.
+- 🐹 Especialista en **Go** y arquitecturas de alto rendimiento.
+- 📱 Desarrollador **Mobile** enfocado en React Native y Kotlin.
+- 🛠️ Experto en soluciones escalables para **Seguridad y Retail**.
+- 💼 [Mi LinkedIn]([https://www.linkedin.com/in/luciano-arce-25b131262/])
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dweblarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Luciano" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dweblarce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="180px" />
-</p>
 
----
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)  |
-| **Infra & DB** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+#### 🌍 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### ⚙️ Backend & Core
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
 
 ---
 
