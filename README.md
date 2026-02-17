@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Luciano Arce</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Luciano </a> 👋</h1>
 </div>
 <img src="banner.jfif"width="100%" alt="Banner de Luciano">
 
