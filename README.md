@@ -32,7 +32,7 @@
 ### 📚 Actualmente explorando Python
 > "Aprendiendo las bases de Python a través del desarrollo de lógica de juegos."
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://github.com/Dweblarce/proyecto-trivia-python))
 *Desarrollando **Trivias y Juegos de lógica** para dominar estructuras de datos y algoritmos en este lenguaje.*
 
 ---
