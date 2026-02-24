@@ -6,28 +6,30 @@
 ---
 ## Sobre mi
 
-- 🚀 **Full Stack Engineer** con +5 años de experiencia.
-- 🐹 Especialista en **Go** y arquitecturas de alto rendimiento.
-- 📱 Desarrollador **Mobile** enfocado en React Native y Kotlin.
-- 🛠️ Experto en soluciones escalables para **Seguridad y Retail**.
-- 📚 Actualmente explorando Python
-- 💼 [Mi LinkedIn]([https://www.linkedin.com/in/luciano-arce-25b131262/])
+### **Senior Full Stack & Mobile Engineer**
+**Node.js (NestJS) | Angular | Vue 3 (Vite + Pinia) | React Native | Kotlin**
+
+Desarrollador con más de **5 años de experiencia** transformando requerimientos de negocio en soluciones técnicas de alto rendimiento. Mi enfoque principal es la creación de arquitecturas escalables que unifican el poder del **Backend (Node/Go)** con experiencias de usuario fluidas en **Web (Angular/Vue)** y **Mobile (React Native/Kotlin)**.
 
 
 
 ### 🛠️ Mi Stack Tecnológico
 
-#### 🌍 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+| Capa | Tecnologías |
+| :--- | :--- |
+| **Backend** | Node.js (NestJS), Java (Spring Boot), Go, Python |
+| **Frontend & Web** | **Vue 3 (Vite + Pinia)**, Angular, TypeScript |
+| **Mobile** | **React Native**, Kotlin (Native Development) |
+| **Infraestructura** | Docker, APIs REST, PostgreSQL, MongoDB |
 
-#### ⚙️ Backend & Core
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+### 🚀 Logros y Enfoque Profesional
+* **Optimización Multiplataforma:** Mejora del 25% en la retención de usuarios mediante la optimización de performance en aplicaciones móviles y reducción de tiempos de carga en web.
+* **Experiencia en Sectores Críticos:** Desarrollo de soluciones robustas para el sector bancario y retail, garantizando seguridad, integridad de datos y alta disponibilidad.
+* **Arquitectura de Estado Moderno:** Implementación de flujos de trabajo eficientes con **Vite** y gestión de estado reactiva con **Pinia** en proyectos Vue 3.
+
+---
 
 
 
@@ -38,6 +40,9 @@
 * 🎮 **[Game-LOOP](https://github.com/Dweblarce/Game-Loop)**: Motor de lógica con control de ticks y optimización de recursos.
 
 ---
+### 📫 Contacto
+- **LinkedIn:** [https://www.linkedin.com/in/luciano-arce-25b131262/]
+- **Email:** newprogramadores@gmail.com
 
-### 📫 ¿Hablamos? 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newprogramadores@gmail.com)
+---
+*"Construyendo el mañana, una línea de código a la vez."*
