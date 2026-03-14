@@ -35,7 +35,7 @@ Actualmente exploro la implementación de **IA Driven Spec** para optimizar el c
 
 ### 🎮 Proyectos Destacados en Python
 
-* [cite_start]**Mortal Kombat Engine:** Desarrollo de una mecánica de lucha en **Python/Pygame**, implementando sistemas de colisiones, animaciones por frames y gestión de estados de personajes. 
+* [https://github.com/Dweblarce/Mortal-Kombat-Python]**Mortal Kombat Engine:** Desarrollo de una mecánica de lucha en **Python/Pygame**, implementando sistemas de colisiones, animaciones por frames y gestión de estados de personajes. 
 
 
 ---
