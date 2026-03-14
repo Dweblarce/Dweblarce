@@ -25,18 +25,18 @@ Actualmente exploro la implementación de **IA Driven Spec** para optimizar el c
 
 ### 🚀 Logros y Enfoque Profesional
 
-* [cite_start]**Modernización Multiplataforma:** Lideré la transición de sistemas críticos POS desde **Java Legacy hacia Kotlin** y el desarrollo de APIs robustas en **Node.js**, mejorando la estabilidad operativa en un 40%. [cite: 1, 31]
-* [cite_start]**Seguridad y Biometría:** Implementé soluciones de **autenticación biométrica** y firma electrónica para sectores de seguridad nacional y banca. [cite: 23, 34]
-* [cite_start]**Arquitectura Web Avanzada:** Especialista en la creación de plataformas escalables con **Angular** y microservicios, asegurando alta disponibilidad y seguridad de datos. [cite: 41]
-* [cite_start]**Sistemas de Alta Demanda:** Diseñé arquitecturas de notificaciones masivas y flujos de datos en tiempo real para más de 2.000 usuarios activos. 
-* [cite_start]**Desarrollo Experimental en Python:** Ingeniería de lógica de juegos y sistemas de visión computacional, aplicando patrones de diseño avanzados en proyectos independientes. 
+* **Modernización Multiplataforma:** Lideré la transición de sistemas críticos POS desde **Java Legacy hacia Kotlin** y el desarrollo de APIs robustas en **Node.js**, mejorando la estabilidad operativa en un 40%. 
+* **Seguridad y Biometría:** Implementé soluciones de **autenticación biométrica** y firma electrónica para sectores de seguridad nacional y banca. 
+* **Arquitectura Web Avanzada:** Especialista en la creación de plataformas escalables con **Angular** y microservicios, asegurando alta disponibilidad y seguridad de datos. 
+* **Sistemas de Alta Demanda:** Diseñé arquitecturas de notificaciones masivas y flujos de datos en tiempo real para más de 2.000 usuarios activos. 
+* **Desarrollo Experimental en Python:** Ingeniería de lógica de juegos y sistemas de visión computacional, aplicando patrones de diseño avanzados en proyectos independientes. 
 
 ---
 
 ### 🎮 Proyectos Destacados en Python
 
 * [cite_start]**Mortal Kombat Engine:** Desarrollo de una mecánica de lucha en **Python/Pygame**, implementando sistemas de colisiones, animaciones por frames y gestión de estados de personajes. 
-* [cite_start]**Biometric Vision Project:** Implementación de reconocimiento facial y análisis de metadatos de imágenes utilizando **Flask y MediaPipe**.
+
 
 ---
 
