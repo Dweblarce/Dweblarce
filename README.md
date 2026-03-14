@@ -4,12 +4,39 @@
 <img src="banner.jfif"width="100%" alt="Banner de Luciano">
 
 ---
+# Senior Full Stack & Mobile Engineer 🚀
 
-# Senior Android Engineer | Kotlin & Java Specialist 🚀
+Desarrollador de software con más de 6 años de experiencia transformando requerimientos de negocio complejos en soluciones técnicas de alto rendimiento. Mi enfoque principal es la creación de arquitecturas escalables que unifican el poder del **Backend (Node.js/NestJS)** con experiencias de usuario fluidas en **Web (Angular)** y **Mobile (Android Nativo/Kotlin)**.
 
-[cite_start]Desarrollador de software con más de 6 años de trayectoria, especializado en la creación de aplicaciones móviles nativas de alto rendimiento[cite: 9, 13]. [cite_start]Mi enfoque principal es la implementación de **IA Driven Spec** para acelerar el ciclo de desarrollo y la construcción de arquitecturas robustas bajo principios **S.O.L.I.D.**[cite: 10].
+Actualmente exploro la implementación de **IA Driven Spec** para optimizar el ciclo de desarrollo y profundizo en la ingeniería de software con **Python**.
 
-He liderado la modernización de infraestructuras críticas, migrando sistemas de **Java Legacy a Kotlin** en sectores de Retail y Seguridad Nacional.
+---
+
+### 🛠 Mi Stack Tecnológico
+
+| Capa | Tecnologías |
+| :--- | :--- |
+| **Mobile** | **Kotlin (Native)**, Java, Jetpack Compose, Coroutines, Flow. |
+| **Backend** | **Node.js (NestJS/Express)**, Java (Spring Boot), **Python**, PHP. |
+| **Frontend & Web** | **Angular**, TypeScript, Vue.js, Material Design. |
+| **Infraestructura** | AWS, Firebase, Docker, PostgreSQL, MongoDB, CI/CD. |
+
+---
+
+### 🚀 Logros y Enfoque Profesional
+
+* [cite_start]**Modernización Multiplataforma:** Lideré la transición de sistemas críticos POS desde **Java Legacy hacia Kotlin** y el desarrollo de APIs robustas en **Node.js**, mejorando la estabilidad operativa en un 40%. [cite: 1, 31]
+* [cite_start]**Seguridad y Biometría:** Implementé soluciones de **autenticación biométrica** y firma electrónica para sectores de seguridad nacional y banca. [cite: 23, 34]
+* [cite_start]**Arquitectura Web Avanzada:** Especialista en la creación de plataformas escalables con **Angular** y microservicios, asegurando alta disponibilidad y seguridad de datos. [cite: 41]
+* [cite_start]**Sistemas de Alta Demanda:** Diseñé arquitecturas de notificaciones masivas y flujos de datos en tiempo real para más de 2.000 usuarios activos. 
+* [cite_start]**Desarrollo Experimental en Python:** Ingeniería de lógica de juegos y sistemas de visión computacional, aplicando patrones de diseño avanzados en proyectos independientes. 
+
+---
+
+### 🎮 Proyectos Destacados en Python
+
+* [cite_start]**Mortal Kombat Engine:** Desarrollo de una mecánica de lucha en **Python/Pygame**, implementando sistemas de colisiones, animaciones por frames y gestión de estados de personajes. 
+* [cite_start]**Biometric Vision Project:** Implementación de reconocimiento facial y análisis de metadatos de imágenes utilizando **Flask y MediaPipe**.
 
 ---
 
