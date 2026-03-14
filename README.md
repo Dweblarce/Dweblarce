@@ -9,7 +9,7 @@
 
 [cite_start]Desarrollador de software con más de 6 años de trayectoria, especializado en la creación de aplicaciones móviles nativas de alto rendimiento[cite: 9, 13]. [cite_start]Mi enfoque principal es la implementación de **IA Driven Spec** para acelerar el ciclo de desarrollo y la construcción de arquitecturas robustas bajo principios **S.O.L.I.D.**[cite: 10].
 
-[cite_start]He liderado la modernización de infraestructuras críticas, migrando sistemas de **Java Legacy a Kotlin** en sectores de Retail y Seguridad Nacional[cite: 23, 26].
+He liderado la modernización de infraestructuras críticas, migrando sistemas de **Java Legacy a Kotlin** en sectores de Retail y Seguridad Nacional.
 
 ---
 
@@ -17,10 +17,10 @@
 
 | Capa | Tecnologías |
 | :--- | :--- |
-| **Mobile Core** | [cite_start]**Kotlin**, Java, **Jetpack Compose**, Coroutines, Flow[cite: 13, 17]. |
-| **Backend** | [cite_start]Node.js (Express), Java (Spring Boot), PHP, Python[cite: 18, 35]. |
-| **Seguridad & QA** | [cite_start]**Autenticación Biométrica**, **R8/ProGuard**, JUnit, Espresso[cite: 19, 23]. |
-| **Infraestructura** | [cite_start]AWS, Firebase (FCM), Docker, GitFlow, CI/CD Pipelines[cite: 11, 18, 19]. |
+| **Mobile Core** |**Kotlin**, Java, **Jetpack Compose**, Coroutines, Flow. |
+| **Backend** | Node.js (Express), Java (Spring Boot), PHP, Python. |
+| **Seguridad & QA** | **Autenticación Biométrica**, **R8/ProGuard**, JUnit, Espresso. |
+| **Infraestructura** | AWS, Firebase (FCM), Docker, GitFlow, CI/CD Pipelines. |
 
 ---
 
