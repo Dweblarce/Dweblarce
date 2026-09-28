@@ -3,38 +3,51 @@
 </div>
 <img src="banner.jfif"width="100%" alt="Banner de Luciano">
 
-## Senior Full Stack & Mobile Engineer 🚀
+## Senior Mobile Engineer (Android & Kotlin) & Full Stack 🚀
 
-Desarrollador de software con más de 6 años de experiencia transformando requerimientos de negocio complejos en soluciones técnicas de alto rendimiento. Mi enfoque principal es la creación de arquitecturas escalables que unifican el poder del Backend (`Node.js`/`NestJS`) con experiencias de usuario fluidas en Web (`Angular`) y Mobile (`Android Nativo / Kotlin / KMP`).
+Ingeniero de software con más de 6 años de experiencia transformando requerimientos de negocio complejos en soluciones móviles y web de alto rendimiento. Especializado en el ecosistema **Android nativo y Kotlin Multiplatform (KMP)**, con una sólida trayectoria liderando el desarrollo de **4 aplicaciones móviles de alta criticidad** en los sectores de logística, seguridad operativa, telecomunicaciones y operaciones en terreno.
 
 ---
 
-### 🛠 Mi Stack Tecnológico
+### 🛠 Mi Stack Tecnológico Principal
 
 | Capa | Tecnologías |
 | :--- | :--- |
-| **Mobile Core** | Kotlin, Java, Jetpack Compose, Coroutines, Flow, StateFlow, Android SDK, KMP |
-| **Backend & APIs** | Node.js (NestJS / Express), Java (Spring Boot), Go, Python, PHP |
-| **Frontend & Web** | Angular, TypeScript, Vue.js, Material Design |
-| **Seguridad & QA** | Autenticación Biométrica, OAuth2, R8/ProGuard, JUnit, MockK, Espresso |
-| **Infraestructura** | AWS, GCP, Firebase (FCM, Crashlytics), Docker, GitFlow, CI/CD Pipelines |
+| **Mobile Core & KMP** | Kotlin, Jetpack Compose, Coroutines, Flow / StateFlow, KMP, Flutter, Android SDK, Room, SQLite |
+| **Arquitectura & Calidad** | Clean Architecture, MVVM, MVI, Inyección de Dependencias (Hilt / Koin), Principios SOLID, Unit/Integration Testing (JUnit 5, MockK) |
+| **Seguridad & Auth** | OAuth2 / OIDC, Autenticación Biométrica (Rostro/Huella), PIN Auth, EncryptedSharedPreferences, R8/ProGuard |
+| **Backend & Cloud** | Node.js (NestJS / Express), Spring Boot (Java), REST & SOAP APIs, PostgreSQL, SQL Server, AWS, GCP, Firebase Suite |
+| **DevOps & Herramientas** | Gradle, Docker, GitFlow, GitHub Actions, CI/CD, Azure DevOps |
 
 ---
 
-### 🚀 Logros y Enfoque Profesional
+### 📱 Mis 4 Aplicaciones Clave en Producción (Experiencia Kotlin)
 
-* **Modernización Multiplataforma:** Liderazgo en la transición de sistemas críticos de Punto de Venta y logística desde Java Legacy hacia Kotlin / KMP, mejorando la estabilidad operativa en un 40%.
-* **Seguridad de Grado Bancario y Biometría:** Implementación de autenticación biométrica (reconocimiento facial/huella) y protección de datos para aplicaciones de alta seguridad.
-* **Arquitectura Escalable y Notificaciones Masivas:** Diseño de lógica de estados dinámicos y sistemas de notificaciones push segmentadas para flujos de trabajo con más de 2,000 usuarios activos.
-* **Optimización Offline-First:** Desarrollo de módulos logísticos complejos utilizando Room y SQLite para garantizar la persistencia de datos en entornos con conectividad intermitente.
+1. **App de Logística, Bodega y Picking Empresa de Retail y Distribución Logística (Confidencial)**
+   * **Descripción:** Solución móvil nativa en Kotlin / KMP orientada a la optimización de procesos operativos, gestión de inventario y control de rutas en bodegas nacionales.
+   * **Stack:** Kotlin, KMP, Jetpack Compose, PostgreSQL, GCP, Node.js.
+   * **Logro:** Integración exitosa de hardware de impresión local con pockets operacionales y sincronización robusta de datos bajo un enfoque *offline-first*.
+
+2. **App de Seguridad Operativa y Control de Acceso - 2,000+ Guardias (Icov S.A.)**
+   * **Descripción:** Aplicación de seguridad de alta demanda utilizada por miles de usuarios activos a nivel nacional.
+   * **Stack:** Kotlin, Jetpack Compose, Firebase, Google Maps API, Azure DevOps.
+   * **Logro:** Incorporación de autenticación biométrica (reconocimiento facial), login con PIN de seguridad, geolocalización en tiempo real y migración exitosa desde sistemas legacy mejorando la estabilidad en un 40%.
+
+3. **Módulos Logísticos Offline-First (ACL S.A.)**
+   * **Descripción:** Desarrollo de arquitectura modular orientada a la persistencia local de datos en entornos con conectividad intermitente.
+   * **Stack:** Kotlin, Clean Architecture, MVVM, Room, SQLite, Gradle.
+   * **Logro:** Refactorización y estructuración avanzada de bases de datos locales para garantizar cero pérdida de información operativa en terreno.
+
+4. **App Crítica para Técnicos en Terreno - Movistar (SIMPLEDATA S.A.)**
+   * **Descripción:** Aplicación de alta complejidad para la gestión de órdenes de trabajo (OT) e infraestructura de telecomunicaciones.
+   * **Stack:** Kotlin, APIs REST y SOAP, WebServices, WifiDesigner, Firestore, MariaDB.
+   * **Logro:** Integración de flujos avanzados de GPS, validación con clientes al cerrar OTs, centralización de cobertura de red y mantenimiento preventivo antes de pases a producción.
 
 ---
 
-### 🎮 Proyectos Destacados
+### 🎮 Proyectos Personales / Experimentales
 
-* 🐍 **[Mortal Kombat Engine](https://github.com/Dweblarce/Mortal-Kombat-Python):** Mecánica de lucha desarrollada en Python/Pygame, implementando sistemas de colisiones, animaciones por frames y gestión de estados de personajes.
-* 🐹 **Acortador-URL-Go:** Microservicio de alto rendimiento desarrollado en Go.
-* 📱 **Frontend-React-Native:** App móvil con arquitecturas limpias y consumo de APIs REST.
+* 🐍 **[Mortal Kombat Engine](https://github.com/Dweblarce/Mortal-Kombat-Python):** Motor de lucha desarrollado en Python/Pygame, aplicando programación orientada a objetos, sistemas de colisiones, animaciones por frames y gestión de estados de personajes.
 
 ---
 
