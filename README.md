@@ -33,7 +33,7 @@ Ingeniero de software con más de 6 años de experiencia transformando requerimi
    * **Stack:** Kotlin, Jetpack Compose, Firebase, Google Maps API, Azure DevOps.
    * **Logro:** Incorporación de autenticación biométrica (reconocimiento facial), login con PIN de seguridad, geolocalización en tiempo real y migración exitosa desde sistemas legacy mejorando la estabilidad en un 40%.
 
-3. **Módulos Logísticos Offline-First (ACL S.A.)**
+3. **Módulos Logísticos Offline-First (ACL S.A.) (Cliente: Chilexpress)**
    * **Descripción:** Desarrollo de arquitectura modular orientada a la persistencia local de datos en entornos con conectividad intermitente.
    * **Stack:** Kotlin, Clean Architecture, MVVM, Room, SQLite, Gradle.
    * **Logro:** Refactorización y estructuración avanzada de bases de datos locales para garantizar cero pérdida de información operativa en terreno.
